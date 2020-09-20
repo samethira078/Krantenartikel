@@ -1,0 +1,23 @@
+.container{
+	width: 800px;
+	zoom: 86%;
+	border: 2px solid black;
+	padding: 10px;
+	background-color: #BCDEDE;
+}
+
+.container .image1{
+	border: 2px solid black;
+	float: left;
+	margin: 0px 20px 20px 0px;
+}
+.container .image2{
+	border: 2px solid black;
+	float: right;
+	margin: 20px 0px 20px 10px;
+}
+.container .image3{
+	border: 2px solid black;
+	float: left;
+	margin: 20px 20px 20px 0px;
+}
